@@ -1,4 +1,4 @@
-package org.engbits.replicant;
+package org.engbits.okra;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
